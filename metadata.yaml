@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '41825'
     url: http://www.gutenberg.org/2009/agents/41825
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42709#Poisons--Their-Effects-and-DetectionA-Manual-for-the-Use-of-Analytical-Chemists-and-Experts
 gutenberg_issued: '2013-05-13'
 gutenberg_type: Text
 identifiers:
