@@ -1,0 +1,28 @@
+_repo: Poisons--Their-Effects-and-DetectionA-Manual-for-the-Use-of-Analytical-Chemists-and-Experts_42709
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42709-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Blyth, Alexander Wynter
+    alias: Blyth, A. Wynter (Alexander Wynter)
+    birthdate: 1844
+    deathdate: 1921
+    gutenberg_agent_id: '41825'
+    url: http://www.gutenberg.org/2009/agents/41825
+description: ''
+gutenberg_issued: '2013-05-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42709'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poisons'
+- !lcc 'RA'
+title: "Poisons, Their Effects and Detection\r\nA Manual for the Use of Analytical\
+  \ Chemists and Experts"
+url: http://www.gutenberg.org/ebooks/42709
